@@ -1,0 +1,22 @@
+.container {
+    width: 86%;
+    /* margin-right: 106px;
+    margin-left: 102px;*/
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 940px) {
+    .container {
+        /*margin-right: 60px;
+        margin-left: 60px;*/
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .container {
+        /*margin-right: 12px;
+    margin-left: 12px;*/
+        margin: 0 auto;
+    }
+}
